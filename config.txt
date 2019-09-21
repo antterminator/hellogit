@@ -1,1 +1,1 @@
-www.nogfw.xyz:9091:AES256CFB:hahaha1000
+www.nogfw.xyz:5000:AES256CFB:fuckfuckgfw1000
